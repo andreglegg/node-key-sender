@@ -6,7 +6,7 @@
   "scripts": {
     "setup": "npm install"
   },
-  "repository": "https://github.com/garimpeiro-it/node-key-sender",
+  "repository": "npm install https://github.com/garimpeiro-it/node-key-sender",
   "author": "Garimpeiro",
   "keywords": [
     "nodejs",
@@ -22,8 +22,8 @@
     "jar"
   ],
   "bugs": {
-    "email": "garimpeiroit@gmail.com",
-    "url": "https://github.com/garimpeiro-it/node-key-sender/issues"
+    "email": "andreglegg@me.com",
+    "url": "npm install https://github.com/garimpeiro-it/node-key-sender/issues"
   },
   "license": "MIT",
   "devDependencies": {},
